@@ -11,9 +11,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Instruction to start project
 
-1. Create/update `.env` file for AWS credential
+1. Create/update `.env` file for AWS credential. Please contact teammate for the env file.
 
-please contact teammate for the file.
+2. run `npm install` on root directory to install package files
 
 2. run `npm start` on root directory
 
